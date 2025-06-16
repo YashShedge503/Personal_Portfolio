@@ -17,7 +17,7 @@ const Home = () => {
                     src={profilePhoto}
                     alt="Yash Shedge Profile Photo"
                     className="w-full h-full object-cover object-center scale-110"
-                    style={{ objectPosition: '50% 20%' }}
+                    style={{ objectPosition: '50% 35%' }}
                   />
                 </div>
                 <div className="absolute -inset-1 rounded-full bg-gradient-to-r from-primary to-secondary opacity-75 blur-sm -z-10"></div>

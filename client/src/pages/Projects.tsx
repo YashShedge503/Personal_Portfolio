@@ -10,15 +10,15 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/Get-me-a-Coffee",
       live: "https://get-me-a-coffee.onrender.com/",
       techStack: ["Next.js", "MongoDB", "Tailwind CSS", "Razorpay API", "NextAuth.js"],
-      overview: "A donation-based full-stack platform with secure payment integration and customizable supporter pages.",
-      image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      overview: "A donation platform for content creators with GitHub login authentication and secure payment integration.",
+      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Mental Health Chatbot",
       github: "https://github.com/YashShedge503/Mental_health_chatbot",
       techStack: ["Python", "LangChain", "ChromaDB", "HuggingFace", "Gradio"],
       overview: "An AI-powered chatbot using LLaMA-3.3 for contextual, supportive mental health conversations.",
-      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1544027993-37dbfe43562a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "CampusIQ",
@@ -31,7 +31,7 @@ const Projects = () => {
       name: "Expense Split",
       github: "https://github.com/YashShedge503/Expense_split",
       techStack: ["Python", "Flask"],
-      overview: "Tool to fairly manage and split shared expenses among groups.",
+      overview: "Backend project to fairly manage and split shared expenses among groups.",
       image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
@@ -39,7 +39,7 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/Hiring_assistant_chatbot",
       techStack: ["Python", "NLP"],
       overview: "A chatbot assistant that filters candidates and generates intelligent responses for HR.",
-      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Amazon Review Recommendation System",
@@ -53,7 +53,7 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/AI_Assistant_Jarvis",
       techStack: ["Python", "SpeechRecognition", "gTTS"],
       overview: "Voice-activated assistant capable of responding to commands and automating desktop tasks.",
-      image: "https://images.unsplash.com/photo-1558618047-3c8c76cd3c9d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Plant Disease Detection System",
