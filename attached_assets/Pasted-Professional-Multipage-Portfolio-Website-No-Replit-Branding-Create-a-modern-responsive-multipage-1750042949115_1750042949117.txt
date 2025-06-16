@@ -1,0 +1,212 @@
+Professional Multipage Portfolio Website (No Replit Branding)
+Create a modern, responsive, multipage personal portfolio website using React.js, Tailwind CSS, and React Router DOM.
+The website must use a professional purple color theme, follow modern UI/UX standards, and feature no Replit branding anywhere.
+Each section should be on a separate page, and all navigation should be handled via React Router DOM.
+I have uploaded my profile photo — use it on the homepage.
+Extract tech stacks and project summaries directly from my GitHub repos (provided below).
+
+🌐 Pages & Navigation (Use React Router DOM)
+Create a clean navbar with the following pages (each on separate routes):
+
+Home (/)
+
+Projects (/projects)
+
+About (/about)
+
+Skills (/skills)
+
+Experience (/experience)
+
+Contact (/contact)
+
+🏠 Home Page
+Show uploaded profile photo
+
+Name: Yash Shedge
+
+Tagline:
+“AI & IoT enthusiast with a passion for full-stack development, machine learning, and real-world solutions.”
+
+Add a Download Resume button:
+
+Resume link: https://drive.google.com/file/d/16VxbYX_ndNPknstcxBFuXKcohbTl-ney/view?usp=sharing
+
+Add social icons with the following links:
+
+LinkedIn: https://www.linkedin.com/in/yash-shedge/
+
+GitHub: https://github.com/YashShedge503
+
+Instagram: placeholder only (no personal link)
+
+💼 Projects Page (/projects)
+Use a grid/card layout for each project with:
+
+Project name
+
+AI-generated relevant image
+
+Short overview (extracted from GitHub)
+
+Tech stack used
+
+GitHub link
+
+Preview link (only if available)
+
+Projects to include:
+
+Get Me a Coffee
+
+GitHub: https://github.com/YashShedge503/Get-me-a-Coffee
+
+Live Preview: https://get-me-a-coffee.onrender.com/
+
+Tech Stack: Next.js, MongoDB, Tailwind CSS, Razorpay API, NextAuth.js
+
+Overview: A donation-based full-stack platform with secure payment integration and customizable supporter pages.
+
+Mental Health Chatbot
+
+GitHub: https://github.com/YashShedge503/Mental_health_chatbot
+
+Tech Stack: Python, LangChain, ChromaDB, HuggingFace, Gradio
+
+Overview: An AI-powered chatbot using LLaMA-3.3 for contextual, supportive mental health conversations.
+
+CampusIQ
+
+GitHub: https://github.com/YashShedge503/CampusIQ
+
+Tech Stack: Flask, SQLite, OpenCV, HTML/CSS/JavaScript
+
+Overview: Role-based ERP for education with facial recognition attendance and performance analytics.
+
+Expense Split
+
+GitHub: https://github.com/YashShedge503/Expense_split
+
+Tech Stack: Python, Flask
+
+Overview: Tool to fairly manage and split shared expenses.
+
+Hiring Assistant Chatbot
+
+GitHub: https://github.com/YashShedge503/Hiring_assistant_chatbot
+
+Tech Stack: Python, NLP
+
+Overview: A chatbot assistant that filters candidates and generates intelligent responses for HR.
+
+Amazon Review Recommendation System
+
+GitHub: https://github.com/YashShedge503/Amazon_Review_Based_Recommendation_System
+
+Tech Stack: Python, NLP, Machine Learning
+
+Overview: Recommender system that uses sentiment analysis on Amazon reviews to suggest products.
+
+AI Assistant Jarvis
+
+GitHub: https://github.com/YashShedge503/AI_Assistant_Jarvis
+
+Tech Stack: Python, SpeechRecognition, gTTS
+
+Overview: Voice-activated assistant capable of responding to commands and automating desktop tasks.
+
+Plant Disease Detection System
+
+GitHub: https://github.com/YashShedge503/Plant_Disease_Detection_System
+
+Tech Stack: OpenCV, scikit-learn
+
+Overview: Identifies plant diseases using image classification techniques and machine learning.
+
+Auto Reply ChatBot
+
+GitHub: https://github.com/YashShedge503/Auto_Reply_ChatBot
+
+Tech Stack: Python, PyAutoGUI, OpenAI API
+
+Overview: Automatically reads messages and replies in real-time using AI-generated responses.
+
+🎓 About Page (/about)
+Show education journey in a vertical timeline format:
+
+10th – CBSE – Blossom Public School, Pune – 90.4%
+
+12th – CBSE – Blossom Public School, Pune – 78.8%
+
+B.Tech – Artificial Intelligence and Data Science – Vishwakarma Institute of Information Technology, Pune – CGPA: 8.22 (2022–2026)
+
+🧠 Skills Page (/skills)
+Display categorized skills using badges, tags, or skill bars:
+
+Languages: Python, C++, C, JavaScript, HTML, CSS
+Frameworks: React, PyTorch
+Libraries: Pandas, NumPy, Matplotlib, sklearn, TensorFlow, OpenCV, SpeechRecognition
+Databases: MongoDB, MySQL
+Tools: Power BI, Tableau, Excel, PowerPoint, Arduino IDE, Git
+Soft Skills: Teamwork, Communication, Project Management, Stakeholder Management
+
+💼 Experience & Certifications Page (/experience)
+Experience:
+
+Artificial Intelligence Research Intern – HCL Tech (Aug 2024 – Jan 2025)
+
+Boosted model accuracy by 30% for manufacturing insights using OCR and LLAMA models.
+
+Extracted rules and tables from complex DFM Pro PDF documents using layout-aware NLP pipelines.
+
+Fine-tuned DistilBERT on domain-specific datasets to achieve 98% accuracy.
+
+Built dashboards and performance visualizations using Matplotlib to compare model outputs.
+
+Worked closely with engineering teams to align AI results with industrial requirements.
+
+Project Lead – IoT Forum VIIT (Aug 2023 – Mar 2025)
+
+Built a facial recognition attendance system with real-time data capture using IoT devices.
+
+Conducted market research on IoT in healthcare, uncovering tech trends and adoption barriers.
+
+Coordinated multi-member teams for smooth project delivery.
+
+Led a workshop on building self-driving car prototypes, engaging over 50 students.
+
+Certifications:
+
+Machine Learning with Python – LinkedIn
+
+SAP Technology Consultant – Coursera
+
+Achievements:
+
+Top 10 – HackSplosion (SPIT) – Fullstack Track
+
+Second Runner-up – Departmental Hackathon (AI/ML category)
+
+📞 Contact Page (/contact)
+Display:
+
+Location: Chinchwad, Pune, Maharashtra
+
+Email: yashshedge503@gmail.com
+
+Phone: +91-9370251431
+
+Include a contact form with fields: Name, Email, Message
+Use EmailJS or Netlify Forms to process form submissions
+(Optional: Include Google Maps iframe pointing to Chinchwad, Pune)
+
+🎨 UI/UX and Style Guidelines
+Color Theme: Professional Purple (main: #6B21A8, accents: #7C3AED, light: #A78BFA)
+
+Font: Use Inter or Poppins
+
+Use glassmorphism or neumorphism elements sparingly for modern feel
+
+Include subtle scroll or entry animations (AOS.js or Framer Motion)
+
+Ensure fully mobile-responsive layout
