@@ -1,7 +1,7 @@
 import { ExternalLink, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import profilePhoto from "@assets/yash-photo_1750048278050.png";
+import profilePhoto from "@assets/yash-photo22_1750048567900.png";
 
 const Home = () => {
   return (
