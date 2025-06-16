@@ -84,7 +84,7 @@ const Home = () => {
                   className="bg-gradient-to-r from-primary to-secondary hover:from-secondary hover:to-primary text-white px-8 py-3 rounded-full font-medium transition-all duration-300 shadow-lg hover:shadow-xl"
                 >
                   <a
-                    href="https://drive.google.com/file/d/16VxbYX_ndNPknstcxBFuXKcohbTl-ney/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1lQb2K22julgMhn88dSkxrths2tUMmpnA/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

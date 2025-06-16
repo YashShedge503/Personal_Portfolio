@@ -4,18 +4,7 @@ import { Badge } from "@/components/ui/badge";
 
 const Experience = () => {
   const experiences = [
-    {
-      title: "Artificial Intelligence Research Intern",
-      company: "HCL Tech",
-      duration: "Aug 2024 – Jan 2025",
-      achievements: [
-        "Boosted model accuracy by 30% for manufacturing insights using OCR and LLAMA models.",
-        "Extracted rules and tables from complex DFM Pro PDF documents using layout-aware NLP pipelines.",
-        "Fine-tuned DistilBERT on domain-specific datasets to achieve 98% accuracy.",
-        "Built dashboards and performance visualizations using Matplotlib to compare model outputs.",
-        "Worked closely with engineering teams to align AI results with industrial requirements."
-      ]
-    },
+    
     {
       title: "Project Lead",
       company: "IoT Forum VIIT",
