@@ -26,8 +26,8 @@ const Home = () => {
                   <img
                     src={profilePhoto}
                     alt="Yash Shedge Profile Photo"
-                    className="w-full h-full object-cover object-center scale-110"
-                    style={{ objectPosition: '50% 50%' }}
+                    className="w-full h-full object-cover scale-125"
+                    style={{ objectPosition: '50% 60%' }}
                   />
                 </motion.div>
                 <motion.div 
