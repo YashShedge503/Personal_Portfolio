@@ -1,7 +1,7 @@
 import { ExternalLink, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
-import profilePhoto from "@assets/yash photo 3 (1)_1750042981903.png";
+import profilePhoto from "@assets/yash-photo_1750048278050.png";
 
 const Home = () => {
   return (
@@ -26,8 +26,8 @@ const Home = () => {
                   <img
                     src={profilePhoto}
                     alt="Yash Shedge Profile Photo"
-                    className="w-full h-full object-cover scale-125"
-                    style={{ objectPosition: '50% 60%' }}
+                    className="w-full h-full object-cover"
+                    style={{ objectPosition: '50% 45%' }}
                   />
                 </motion.div>
                 <motion.div 
