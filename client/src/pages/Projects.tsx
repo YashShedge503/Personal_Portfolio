@@ -11,21 +11,21 @@ const Projects = () => {
       live: "https://get-me-a-coffee.onrender.com/",
       techStack: ["Next.js", "MongoDB", "Tailwind CSS", "Razorpay API", "NextAuth.js"],
       overview: "A donation-based full-stack platform with secure payment integration and customizable supporter pages.",
-      image: "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Mental Health Chatbot",
       github: "https://github.com/YashShedge503/Mental_health_chatbot",
       techStack: ["Python", "LangChain", "ChromaDB", "HuggingFace", "Gradio"],
       overview: "An AI-powered chatbot using LLaMA-3.3 for contextual, supportive mental health conversations.",
-      image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "CampusIQ",
       github: "https://github.com/YashShedge503/CampusIQ",
       techStack: ["Flask", "SQLite", "OpenCV", "HTML/CSS/JavaScript"],
       overview: "Role-based ERP for education with facial recognition attendance and performance analytics.",
-      image: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Expense Split",
@@ -39,7 +39,7 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/Hiring_assistant_chatbot",
       techStack: ["Python", "NLP"],
       overview: "A chatbot assistant that filters candidates and generates intelligent responses for HR.",
-      image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Amazon Review Recommendation System",
@@ -53,7 +53,7 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/AI_Assistant_Jarvis",
       techStack: ["Python", "SpeechRecognition", "gTTS"],
       overview: "Voice-activated assistant capable of responding to commands and automating desktop tasks.",
-      image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1558618047-3c8c76cd3c9d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     },
     {
       name: "Plant Disease Detection System",
@@ -67,7 +67,7 @@ const Projects = () => {
       github: "https://github.com/YashShedge503/Auto_Reply_ChatBot",
       techStack: ["Python", "PyAutoGUI", "OpenAI API"],
       overview: "Automatically reads messages and replies in real-time using AI-generated responses.",
-      image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
+      image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400"
     }
   ];
 

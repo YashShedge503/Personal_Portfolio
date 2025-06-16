@@ -9,7 +9,7 @@ const About = () => {
       field: "Artificial Intelligence and Data Science",
       institution: "Vishwakarma Institute of Information Technology, Pune",
       year: "2022 - 2026",
-      grade: "CGPA: 8.22",
+      grade: "CGPA: 8.4",
       color: "primary"
     },
     {
